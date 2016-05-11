@@ -1,0 +1,27 @@
+{
+  "name": "lisk-api",
+  "version": "0.0.3",
+  "description": "A Node.JS module, which provides an wrapper for the Lisk API.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrlc92/lisk-api.git"
+  },
+  "keywords": [
+    "Lisk",
+    "API",
+    "Node.js"
+  ],
+  "author": "vrlc92 <vrlc92@gmail.com> (https://br.linkedin.com/in/vrlc92)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vrlc92/lisk-api/issues"
+  },
+  "homepage": "https://github.com/vrlc92/lisk-api#readme",
+  "dependencies": {
+    "request": "2.72.0"
+  }
+}
